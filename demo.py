@@ -47,4 +47,5 @@ def askURL(url):
 
 if __name__ == '__main__':
     main()
+    print("11111111111")
     print("所长在等你")
